@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="helloWorld">Hello World</string>
+    <string name="toName">Change Text to My Name</string>
+    <string name="toWorld">Change Text to Hello World</string>
+    <string name="orEnter">Or you can enter your own text below</string>
+    <string name="customText">Enter your custom text here...</string>
+    <string name="submitButton">Submit My Text</string>
+</resources>
